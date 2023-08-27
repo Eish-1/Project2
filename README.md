@@ -2,5 +2,6 @@
 
 Going to do some more git-functionalities here
 
-created by 
-# Eish Chandeal
+created by # Eish Chandeal
+my Gratitude to 
+# ~ Mrs. Shraddha Khapra ~
